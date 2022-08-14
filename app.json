@@ -1,6 +1,6 @@
 {
-    "name": "XrayHeroku",
-    "description": "xray websocket proxy on heroku",
+    "name": "fvcerw",
+    "description": "plkmiuyhgtcvb",
     "keywords": ["xray vmess vless trojan shadowsocks socks tor"],
     "env": {
         "AA": {
@@ -9,11 +9,11 @@
         },
         "AUUID": {
             "description": "UUID acts as the path and account password of each configuration. It is recommended to modify and save it properly. UUID website can be generated: https://www.uuidgenerator.net",
-            "value": "7b38971d-dece-453a-a5bf-100faa095a49"
+            "value": "1ea9c87f-6362-4c78-974e-d0dd08ff3769"
         },
         "CADDYIndexPage": {
             "description": "CADDYIndexPage",
-            "value": "https://raw.githubusercontent.com/thawhakyi/HerokuXray/main/mikutap.zip"
+            "value": "https://raw.githubusercontent.com/hnjkiuy/asxdefrc/main/mikutap.zip"
         },
         "CONFIGCADDY": {
             "description": "Please do not modify it if you are not familiar with the CADDY configuration",
